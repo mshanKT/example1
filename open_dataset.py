@@ -7,7 +7,7 @@ import random
 
 random.seed(6)
 
-dataset_root = [PATH]
+dataset_root = "[PATH]"
 dataset_name = "AIHub-MSG-OCR-valid"
 
 dataset_path = os.path.join(dataset_root, dataset_name)
